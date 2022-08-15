@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, dear visitor! 👋
 
-<!--
-**samlmbrt/samlmbrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Samuel, and I am a passionate software developer. I am currently working at Wealthsimple, one of Canada's top fintech companies.
 
-Here are some ideas to get you started:
+I have experience with:
+- JavaScript/TypeScript
+- React.js
+- Next.js
+- Node.js
+- CSS/SASS
+- C++
+- Qt
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also love music, and I play drums!
