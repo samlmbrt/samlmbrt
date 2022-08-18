@@ -8,6 +8,7 @@ I have experience with:
 - Next.js
 - Node.js
 - CSS/SASS
+- C
 - C++
 - Qt
 - Git
