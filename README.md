@@ -1,11 +1,12 @@
-### Hello, dear visitor! 👋
+### Hey there! 👋
 
-My name is Samuel, and I am a passionate software developer. I am currently working at Wealthsimple, one of Canada's top fintech companies.
+I'm Samuel, a software developer at Wealthsimple, one of Canada's top fintech companies.
 
-Things I like:
+Things I'm into:
+
 - Programming languages
 - Distributed systems
 - Beautiful UIs
 - Systems programming
 
-I also love music, and I play drums!
+Outside of code, I love music and play drums!
